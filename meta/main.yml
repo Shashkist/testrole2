@@ -2,6 +2,7 @@ galaxy_info:
   author: Arya Stark
   description: The None
   company: winterfell killer
+  role_name: winterfell_killer
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
